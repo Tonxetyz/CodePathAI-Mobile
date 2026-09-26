@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "CodePath AI",
+    "slug": "codepath-ai",
+    "icon": "./assets/codepath-ai-icon.png",
+    "scheme": "codepathai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
